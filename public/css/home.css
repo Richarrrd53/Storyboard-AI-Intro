@@ -193,7 +193,7 @@ body::selection{
 }
 
 #title6 .a{
-    transition: all 0.1s cubic-bezier(.4,0,.2,1);
+    transition: all 0s cubic-bezier(.4,0,.2,1);
     transform: translate(-700px, 20px) scale(0.2) rotate(-45deg);
     filter: blur(20px);
     opacity: 0;
